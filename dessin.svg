@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="707mm"
+   height="1056mm"
+   viewBox="0 0 2505.1181 3741.732"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dessin.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4365">
+      <stop
+         style="stop-color:#f53476;stop-opacity:1;"
+         offset="0"
+         id="stop4367" />
+      <stop
+         style="stop-color:#f53476;stop-opacity:0;"
+         offset="1"
+         id="stop4369" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 1771.6536 : 1"
+       inkscape:vp_y="0 : 999.99989 : 0"
+       inkscape:vp_z="2505.1181 : 1771.6536 : 1"
+       inkscape:persp3d-origin="1252.5591 : 1181.1023 : 1"
+       id="perspective4223" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4365"
+       id="radialGradient4371"
+       cx="1880.0166"
+       cy="795.3824"
+       fx="1880.0166"
+       fy="795.3824"
+       r="169.2817"
+       gradientTransform="matrix(1,0,0,3.0907274,0,-1662.9278)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4365"
+       id="radialGradient4383"
+       cx="614.28571"
+       cy="506.6481"
+       fx="614.28571"
+       fy="506.6481"
+       r="180.42059"
+       gradientTransform="matrix(1.0317313,0,0,1.5058626,-25.206392,-264.86578)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4365"
+       id="linearGradient4391"
+       x1="528.14288"
+       y1="528.07666"
+       x2="843.28571"
+       y2="528.07666"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1228.0135"
+     inkscape:cy="823.28873"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       position="71.428571,3791.4285"
+       orientation="1,0"
+       id="guide4250" />
+    <sodipodi:guide
+       position="2925.7142,2545.7143"
+       orientation="0,1"
+       id="guide3470" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2689.3698)">
+    <rect
+       style="opacity:0.78899997;fill:#f5ff76;fill-opacity:1;stroke:none"
+       id="rect4136"
+       width="1828.5715"
+       height="1128.5713"
+       x="422.85715"
+       y="-2241.9233" />
+    <rect
+       style="opacity:0.78899997;fill:#f53476;fill-opacity:1;stroke:none"
+       id="rect4138"
+       width="1460"
+       height="825.71429"
+       x="620"
+       y="-2096.2092" />
+    <rect
+       style="opacity:0.78899997;fill:#a8ff76;fill-opacity:1;stroke:none"
+       id="rect4140"
+       width="1008.5715"
+       height="462.85712"
+       x="780.00006"
+       y="-1979.0664" />
+    <rect
+       style="opacity:0.78899997;fill:#f56576;fill-opacity:1;stroke:none"
+       id="rect4142"
+       width="617.14282"
+       height="239.99998"
+       x="948.57141"
+       y="-1824.7806" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="980"
+       y="-1181.9236"
+       id="text4144"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4146"
+         x="980"
+         y="-1181.9236">ARCHIVES NATIONALES (FRANCE)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1352.7552"
+       y="-1393.3521"
+       id="text4148"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4150"
+         x="1359.1224"
+         y="-1393.3521"
+         style="text-align:center;text-anchor:middle">REPORTAGES PHOTO DE LA PRESIDENCE </tspan><tspan
+         sodipodi:role="line"
+         x="1352.7552"
+         y="-1343.3521"
+         id="tspan4152"
+         style="text-align:center;text-anchor:middle">GEORGE POMPIDOU DE 1969-1974</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1045.7144"
+       y="-1530.495"
+       id="text4154"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4156"
+         x="1045.7144"
+         y="-1530.495">INVENTAIRES DETAILLEE</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:0.78899997;fill:#a8ffd3;fill-opacity:1;stroke:none"
+       id="path4328"
+       sodipodi:sides="6"
+       sodipodi:cx="1065.7144"
+       sodipodi:cy="-113.35202"
+       sodipodi:r1="795.13318"
+       sodipodi:r2="688.60553"
+       sodipodi:arg1="0.49418474"
+       sodipodi:arg2="1.0177835"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 1765.7144,263.79085 -676.6153,417.64636 -700.00006,-377.14287 -23.3847,-794.78923 676.61536,-417.64636 700,377.14287 z"
+       transform="matrix(1.1469388,0,0,0.7950939,140.54811,-100.36939)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.78899997;fill:#efff76;fill-opacity:1;stroke:none"
+       id="path4341"
+       sodipodi:sides="6"
+       sodipodi:cx="960"
+       sodipodi:cy="-104.78056"
+       sodipodi:r1="535.59808"
+       sodipodi:r2="463.84155"
+       sodipodi:arg1="0.43501582"
+       sodipodi:arg2="0.95861459"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 1445.7143,120.93372 1007.3828,428.71749 521.66855,203.0032 474.28571,-330.49485 912.61716,-638.27862 1398.3314,-412.56433 Z"
+       transform="matrix(0.81470589,0,0,0.78578045,165.02521,-136.73176)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.78899997;fill:#a84676;fill-opacity:1;stroke:none"
+       id="path4365"
+       sodipodi:sides="6"
+       sodipodi:cx="714.28571"
+       sodipodi:cy="-207.63766"
+       sodipodi:r1="166.23071"
+       sodipodi:r2="143.96004"
+       sodipodi:arg1="0.5020902"
+       sodipodi:arg2="1.025689"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 859.99998,-127.63767 -142.13916,86.192269 -145.71428,-79.999999 -3.57511,-166.19226 142.13917,-86.19227 145.71427,80 z"
+       transform="matrix(0.94117647,0,0,0.85386977,50.588237,-54.627855)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.78899997;fill:#a84676;fill-opacity:1;stroke:none"
+       id="path4367"
+       sodipodi:sides="6"
+       sodipodi:cx="1105.7142"
+       sodipodi:cy="-259.06613"
+       sodipodi:r1="134.16408"
+       sodipodi:r2="116.1895"
+       sodipodi:arg1="0.46364761"
+       sodipodi:arg2="0.98724638"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 1225.7142,-199.06613 -111.9615,73.92305 -119.99999,-60 -8.03848,-133.92305 111.96157,-73.92305 120,60 z"
+       transform="matrix(1.2380952,0,0,1.1066711,-283.2653,44.777718)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.78899997;fill:#a84676;fill-opacity:1;stroke:none"
+       id="path4369"
+       sodipodi:sides="6"
+       sodipodi:cx="1728.5713"
+       sodipodi:cy="-233.35207"
+       sodipodi:r1="329.95981"
+       sodipodi:r2="285.75357"
+       sodipodi:arg1="0.50625746"
+       sodipodi:arg2="1.0298562"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 2017.1427,-73.352062 -282.8498,169.910193 -288.5714,-160.000004 -5.7216,-329.910197 282.8497,-169.91019 288.5715,160 z"
+       transform="matrix(0.81683169,0,0,0.71853812,263.76234,-95.679714)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="788.57141"
+       y="20.933834"
+       id="text4371"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4373"
+         x="788.57141"
+         y="20.933834">AGENT TECHNIQUES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="657.14288"
+       y="-239.06613"
+       id="text4375"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4377"
+         x="657.14288"
+         y="-239.06613" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1108.5714"
+       y="-233.35202"
+       id="text4379"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4381"
+         x="1108.5714"
+         y="-233.35202" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="605.71429"
+       y="-241.92331"
+       id="text4383"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4385"
+         x="605.71429"
+         y="-241.92331">ELEONNORE</tspan><tspan
+         sodipodi:role="line"
+         x="605.71429"
+         y="-191.92331"
+         id="tspan4397">. MOULY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1005.7142"
+       y="-264.78052"
+       id="text4387"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4389"
+         x="1005.7142"
+         y="-264.78052">CHRISTOPHE</tspan><tspan
+         sodipodi:role="line"
+         x="1005.7142"
+         y="-214.78052"
+         id="tspan4395">CIANI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1502.8571"
+       y="-281.92334"
+       id="text4391"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4393"
+         x="1502.8571"
+         y="-281.92334">ISABELLE CHAVE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1014.2857"
+       y="192.36247"
+       id="text4399"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4401"
+         x="1014.2857"
+         y="192.36247">DEPARTEMENT DE L'EXECUTIF ET DU LEGISLATIF</tspan></text>
+    <ellipse
+       style="opacity:0.78899997;fill:#a84676;fill-opacity:1;stroke:none"
+       id="path3483"
+       cx="1225.7144"
+       cy="2022.3619"
+       rx="1137.1428"
+       ry="770" />
+    <ellipse
+       style="opacity:0.78899997;fill:#a84676;fill-opacity:1;stroke:none"
+       id="path3485"
+       cx="909.99994"
+       cy="2255.2195"
+       rx="530"
+       ry="428.57144" />
+    <ellipse
+       style="opacity:0.78899997;fill:#f62176;fill-opacity:1;stroke:none"
+       id="path3487"
+       cx="671.42859"
+       cy="2069.5051"
+       rx="174.28572"
+       ry="171.42857" />
+    <ellipse
+       style="opacity:0.78899997;fill:#f62176;fill-opacity:1;stroke:none"
+       id="path4289"
+       cx="1135.7144"
+       cy="2050.9336"
+       rx="161.42857"
+       ry="175.71428" />
+    <ellipse
+       style="opacity:0.78899997;fill:#f62176;fill-opacity:1;stroke:none"
+       id="path4291"
+       cx="1941.4287"
+       cy="1870.9337"
+       rx="372.85715"
+       ry="367.14285" />
+    <ellipse
+       style="opacity:0.78899997;fill:#f62176;fill-opacity:1;stroke:none"
+       id="path4293"
+       cx="970.00006"
+       cy="2433.7908"
+       rx="261.42859"
+       ry="207.14285" />
+    <ellipse
+       style="opacity:0.78899997;fill:#0effe1;fill-opacity:0.82125603;stroke:none"
+       id="path4295"
+       cx="2130.0002"
+       cy="1809.505"
+       rx="152.85715"
+       ry="154.28572" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1131.4286"
+       y="2675.2195"
+       id="text4297"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4299"
+         x="1131.4286"
+         y="2675.2195">GEORGE POMPIDOU (1969-1974)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="531.42853"
+       y="2083.7908"
+       id="text4301"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4303"
+         x="531.42853"
+         y="2083.7908"
+         style="font-size:27.5px">AUDIENCES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1131.4287"
+       y="1986.6481"
+       id="text4305"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4307"
+         x="1131.4287"
+         y="1986.6481"
+         style="font-size:27.5px">VISITES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="797.14282"
+       y="2572.3621"
+       id="text4309"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4311"
+         x="797.14282"
+         y="2572.3621"
+         style="font-size:35px">FETES NATIONALES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1997.1429"
+       y="1849.505"
+       id="text4317"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4319"
+         x="1997.1429"
+         y="1849.505"
+         style="font-size:35px">CONFERENCE DE</tspan><tspan
+         sodipodi:role="line"
+         x="1997.1429"
+         y="1893.255"
+         id="tspan4321"
+         style="font-size:35px">PRESSE</tspan></text>
+    <ellipse
+       style="opacity:0.78899997;fill:#0eff17;fill-opacity:0.82125603;stroke:none"
+       id="path4323"
+       cx="1304.2858"
+       cy="1519.5051"
+       rx="235.71428"
+       ry="241.42857" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1748.5715"
+       y="2134.3621"
+       id="text4331"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4333"
+         x="1748.5715"
+         y="2134.3621"
+         style="font-size:35px">SERVICES PHOTOGRAPHI</tspan></text>
+    <ellipse
+       style="opacity:0.78899997;fill:#0eff17;fill-opacity:0.82125603;stroke:none"
+       id="path4335"
+       cx="1802.8573"
+       cy="1799.5051"
+       rx="134.28572"
+       ry="147.14285" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1697.1429"
+       y="1792.3621"
+       id="text4337"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4339"
+         x="1697.1429"
+         y="1792.3621"
+         style="font-size:35px">REMISE DE </tspan><tspan
+         sodipodi:role="line"
+         x="1697.1429"
+         y="1836.1121"
+         id="tspan4341"
+         style="font-size:35px">LA LEGION</tspan><tspan
+         sodipodi:role="line"
+         x="1697.1429"
+         y="1879.8621"
+         id="tspan4343"
+         style="font-size:35px">D'HONNEUR</tspan></text>
+    <ellipse
+       style="opacity:0.78899997;fill:#3411e3;fill-opacity:0.82125603;stroke:none"
+       id="path4345"
+       cx="1985.7144"
+       cy="1656.6478"
+       rx="145.71429"
+       ry="130" />
+    <ellipse
+       style="opacity:0.78899997;fill:#3411e3;fill-opacity:0.82125603;stroke:none"
+       id="path4351"
+       cx="1334.2856"
+       cy="1616.6478"
+       rx="154.28572"
+       ry="107.14286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1237.1428"
+       y="1600.9337"
+       id="text4353"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4355"
+         x="1237.1428"
+         y="1600.9337"
+         style="font-size:30px">REMISE DES</tspan><tspan
+         sodipodi:role="line"
+         x="1237.1428"
+         y="1638.4337"
+         id="tspan4357"
+         style="font-size:30px">LETTRES </tspan><tspan
+         sodipodi:role="line"
+         x="1237.1428"
+         y="1675.9337"
+         id="tspan4359"
+         style="font-size:30px">DE CREANCES</tspan></text>
+    <ellipse
+       style="opacity:0.78899997;fill:#ef112f;fill-opacity:0.82125603;stroke:none"
+       id="path4361"
+       cx="908.57141"
+       cy="2003.7909"
+       rx="162.85715"
+       ry="131.42856" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="831.42859"
+       y="1995.2192"
+       id="text4363"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4365"
+         x="831.42859"
+         y="1995.2192"><tspan
+   style="font-size:30px"
+   id="tspan4367">ACCUEI</tspan>L</tspan></text>
+    <ellipse
+       style="opacity:0.78899997;fill:#f8ea20;fill-opacity:0.82125603;stroke:none"
+       id="path4321"
+       cx="1810.351"
+       cy="2388.0762"
+       rx="216.36447"
+       ry="161.42857" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1714.2858"
+       y="2363.7905"
+       id="text4323"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4325"
+         x="1714.2858"
+         y="2363.7905">PREMIER</tspan><tspan
+         sodipodi:role="line"
+         x="1714.2858"
+         y="2413.7905"
+         id="tspan4328">MINISTRE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1145.7144"
+       y="1380.9338"
+       id="text4329"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4331"
+         x="1145.7144"
+         y="1380.9338"
+         style="font-size:35px">DEPLACEMENT</tspan><tspan
+         sodipodi:role="line"
+         x="1145.7144"
+         y="1424.6838"
+         id="tspan4334"
+         style="font-size:35px"> DU PRESIDENT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1837.1429"
+       y="1675.2197"
+       id="text4346"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4348"
+         x="1837.1429"
+         y="1675.2197"
+         style="font-size:35px">PRESENTATIONS</tspan></text>
+    <ellipse
+       style="opacity:0.78899997;fill:#f8ea20;fill-opacity:0.82125603;stroke:none"
+       id="path4368"
+       cx="875.71429"
+       cy="2380.9341"
+       rx="121.42857"
+       ry="111.42857" />
+    <ellipse
+       style="opacity:0.78899997;fill:#f8ea20;fill-opacity:0.82125603;stroke:none"
+       id="path4370"
+       cx="1064.2858"
+       cy="2392.3623"
+       rx="112.85714"
+       ry="108.57143" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="768.57141"
+       y="2363.7913"
+       id="text4372"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4374"
+         x="768.57141"
+         y="2363.7913"
+         style="font-size:35px">DÉFILES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="962.85712"
+       y="2389.5051"
+       id="text4376"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4378"
+         x="962.85712"
+         y="2389.5051"
+         style="font-size:35px">CEREMONIES</tspan></text>
+    <path
+       style="fill:url(#radialGradient4383);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 794.28304,226.65015 C 422.85977,769.5032 422.85977,769.5032 422.85977,769.5032"
+       id="path4435"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 428.57143,769.5052 c 317.14286,545.7143 311.42857,540 311.42857,540"
+       id="path4448"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:url(#radialGradient4371);fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 1828.5714,272.3624 c 214.2857,542.8571 220,545.7143 220,545.7143 -334.2857,508.5714 -337.1428,499.9999 -337.1428,499.9999 l 0,0"
+       id="path4450"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 805.71429,-1107.6376 c 8.57142,511.4286 8.57142,514.2857 8.57142,514.2857 l 0,0"
+       id="path4452"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1774.2857,-1107.6376 C 1785.7143,-636.209 1780,-633.3519 1780,-633.3519"
+       id="path4454"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1051.4286"
+       y="-1721.9233"
+       id="text4456"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4458"
+         x="1051.4286"
+         y="-1721.9233">PREMIERE EDITION</tspan><tspan
+         sodipodi:role="line"
+         x="1051.4286"
+         y="-1671.9233"
+         id="tspan4460">NUMERIQUE (2016)</tspan></text>
+    <path
+       style="display:inline;fill:url(#linearGradient4391);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 842.85714,266.6481 528.57143,789.50522"
+       id="path4462"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 522.85714,778.07667 825.71429,1283.791"
+       id="path4466"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1860,612.3624 0,0"
+       id="path4468"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1768.5714,280.9338 180,522.85713"
+       id="path4470"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1937.1429,812.3624 -320,488.5714"
+       id="path4472"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
