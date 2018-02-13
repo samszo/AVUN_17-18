@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800mm"
+   height="600mm"
+   viewBox="0 0 160 120"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="aicha2.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 29.699997 : 1"
+       inkscape:vp_y="0 : 199.99999 : 0"
+       inkscape:vp_z="42 : 29.7 : 1"
+       inkscape:persp3d-origin="21.000001 : 19.799999 : 1"
+       id="perspective828" />
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient1011"
+       gradientUnits="userSpaceOnUse"
+       x="-2420.7581"
+       y="-5534.5322">
+      <meshrow
+         id="meshrow1013">
+        <meshpatch
+           id="meshpatch1015">
+          <stop
+             path="c 26.0048,0  52.0095,0  78.0143,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop1017" />
+          <stop
+             path="c 0,36.4873  0,72.9747  0,109.462"
+             style="stop-color:#241f1c;stop-opacity:1"
+             id="stop1019" />
+          <stop
+             path="c -26.0048,0  -52.0095,0  -78.0143,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop1021" />
+          <stop
+             path="c 0,-36.4873  0,-72.9747  0,-109.462"
+             style="stop-color:#241f1c;stop-opacity:1"
+             id="stop1023" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1273"
+       x="-0.85069802"
+       width="2.701396"
+       y="-0.60629817"
+       height="2.2125963">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="27.652754"
+         id="feGaussianBlur1275" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.0875"
+     inkscape:cx="4387.8065"
+     inkscape:cy="-991.55608"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     borderlayer="true"
+     inkscape:pagecheckerboard="false"
+     inkscape:showpageshadow="true"
+     showborder="true"
+     scale-x="0.1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid991" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2439.5057,6202.4466)">
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke-width:0.00812893"
+       id="rect819"
+       width="0.33792925"
+       height="0.057465672"
+       x="-2375.103"
+       y="-6082.5034" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke-width:0.00812893"
+       id="rect821"
+       width="0.30038095"
+       height="0.41662613"
+       x="-2374.7654"
+       y="-6082.8633" />
+    <rect
+       style="fill:#ff00ff;fill-opacity:1;stroke-width:0.04220643"
+       id="rect858"
+       width="127.40636"
+       height="20.173889"
+       x="-2425.0586"
+       y="-6198.0986"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.85797071px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07144928"
+       x="-2234.9656"
+       y="-6575.8174"
+       id="text862"
+       transform="scale(1.0642456,0.93963274)"><tspan
+         sodipodi:role="line"
+         id="tspan860"
+         x="-2234.9656"
+         y="-6575.8174"
+         style="stroke-width:0.07144928">Archives Nationales </tspan></text>
+    <rect
+       style="fill:#d35f5f;fill-opacity:1;stroke-width:0.04250271"
+       id="rect864"
+       width="122.51399"
+       height="14.553954"
+       x="-2421.6794"
+       y="-6196.3721" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.97756267px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000b00;fill-opacity:0.74025975;stroke:none;stroke-width:0.07443907"
+       x="-3192.0271"
+       y="-4687.6323"
+       id="text868"
+       transform="scale(0.75817617,1.3189547)"><tspan
+         sodipodi:role="line"
+         id="tspan866"
+         x="-3192.0271"
+         y="-4687.6323"
+         style="fill:#f9f9f9;fill-opacity:0.74025975;stroke-width:0.07443907">Reportages photographiques autour des chefs  de l'Etats  et des présidents de la République (1938-1959)</tspan></text>
+    <rect
+       style="fill:#090080;fill-opacity:0.74025975;stroke-width:0.00812893"
+       id="rect6687"
+       width="99.726662"
+       height="7.2406759"
+       x="-2406.7935"
+       y="-6194.3027" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.52114248px;line-height:8.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11302856"
+       x="-1895.1738"
+       y="-7809.5195"
+       id="text6691"
+       transform="scale(1.2618256,0.79250257)"><tspan
+         sodipodi:role="line"
+         id="tspan6689"
+         x="-1895.1738"
+         y="-7809.5195"
+         style="fill:#f9f9f9;stroke-width:0.11302856">Répertoire méthodique</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:0.68999999;fill:#a02c79;fill-opacity:0.35170605;stroke:none;stroke-width:0.26458332"
+       id="path849"
+       sodipodi:sides="6"
+       sodipodi:cx="846.66669"
+       sodipodi:cy="-3398.0947"
+       sodipodi:r1="346.94839"
+       sodipodi:r2="300.46609"
+       sodipodi:arg1="-2.6116361"
+       sodipodi:arg2="-2.0880374"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 547.30954,-3573.4757 301.56295,-171.5604 299.35711,175.381 -2.2058,346.9413 -301.56292,171.5605 -299.35715,-175.381 z"
+       inkscape:transform-center-x="-7.395916e-006"
+       inkscape:transform-center-y="-0.00017780832"
+       transform="matrix(0.04966938,0,0,0.01900439,-2362.6373,-6081.798)" />
+    <path
+       inkscape:transform-center-y="-0.000177286"
+       d="m -1112.7619,-3706.5236 301.56292,-171.5604 299.35715,175.381 -2.20581,346.9414 -301.56295,171.5604 -299.35711,-175.381 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-2.0880374"
+       sodipodi:arg1="-2.6116361"
+       sodipodi:r2="300.46609"
+       sodipodi:r1="346.94839"
+       sodipodi:cy="-3531.1426"
+       sodipodi:cx="-813.40479"
+       sodipodi:sides="6"
+       id="path851"
+       style="opacity:0.68999999;fill:#a02c79;fill-opacity:0.35170605;stroke:none;stroke-width:0.26458332"
+       sodipodi:type="star"
+       transform="matrix(0.04966938,0,0,0.01900439,-2362.6373,-6081.798)"
+       inkscape:transform-center-x="-1.5724971e-005" />
+    <path
+       inkscape:transform-center-y="-0.00017313113"
+       inkscape:transform-center-x="-1.0933029e-005"
+       d="m -175.38094,-4764.857 301.56296,-171.5605 299.35715,175.381 -2.20581,346.9414 -301.56295,171.5604 -299.35715,-175.381 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-2.0880374"
+       sodipodi:arg1="-2.6116361"
+       sodipodi:r2="300.46609"
+       sodipodi:r1="346.94839"
+       sodipodi:cy="-4589.4761"
+       sodipodi:cx="123.97621"
+       sodipodi:sides="6"
+       id="path851-8"
+       style="opacity:0.68999999;fill:#a02c79;fill-opacity:0.35170605;stroke:none;stroke-width:0.26458332"
+       sodipodi:type="star"
+       transform="matrix(0.04966938,0,0,0.01900439,-2362.6373,-6081.798)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.38846803px;line-height:8.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05971169"
+       x="-1977.3746"
+       y="-7389.249"
+       id="text876"
+       transform="scale(1.1979749,0.83474205)"><tspan
+         sodipodi:role="line"
+         id="tspan874"
+         x="-1977.3746"
+         y="-7389.249"
+         style="stroke-width:0.05971169">JEAN PIERRE BAT</tspan></text>
+    <path
+       inkscape:transform-center-y="4.7858047e-005"
+       d="m -1158.119,-4462.4762 301.5629,-171.5604 299.35715,175.381 -2.2058,346.9414 -301.56296,171.5604 -299.35719,-175.381 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-2.0880374"
+       sodipodi:arg1="-2.6116361"
+       sodipodi:r2="300.46609"
+       sodipodi:r1="346.94839"
+       sodipodi:cy="-4287.0952"
+       sodipodi:cx="-858.7619"
+       sodipodi:sides="6"
+       id="path851-9"
+       style="opacity:0.68999999;fill:#a02c79;fill-opacity:0.35170605;stroke:none;stroke-width:0.26458332"
+       sodipodi:type="star"
+       transform="matrix(0.04966938,0,0,0.0171824,-2362.6373,-6088.9767)"
+       inkscape:transform-center-x="-1.5879214e-005" />
+    <path
+       inkscape:transform-center-x="-1.1204602e-005"
+       d="m -230.86788,-3319.4759 301.562951,-171.5605 299.357149,175.381 -2.20581,346.9414 -301.562951,171.5604 -299.357149,-175.381 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-2.0880374"
+       sodipodi:arg1="-2.6116361"
+       sodipodi:r2="300.46609"
+       sodipodi:r1="346.94839"
+       sodipodi:cy="-3144.095"
+       sodipodi:cx="68.489265"
+       sodipodi:sides="6"
+       id="path851-5"
+       style="opacity:0.68999999;fill:#a02c79;fill-opacity:0.35170605;stroke:none;stroke-width:0.26458332"
+       sodipodi:type="star"
+       transform="matrix(0.04966938,0,0,0.01900439,-2362.6373,-6081.798)"
+       inkscape:transform-center-y="-0.00017887801" />
+    <path
+       inkscape:transform-center-x="-9.5418632e-006"
+       d="m 108.85715,-4108.6905 301.56295,-171.5605 299.35715,175.381 -2.20581,346.9414 -301.56295,171.5604 -299.35715,-175.381 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-2.0880374"
+       sodipodi:arg1="-2.6116361"
+       sodipodi:r2="300.46609"
+       sodipodi:r1="346.94839"
+       sodipodi:cy="-3933.3096"
+       sodipodi:cx="408.21429"
+       sodipodi:sides="6"
+       id="path851-1"
+       style="opacity:0.68999999;fill:#a02c79;fill-opacity:0.35170605;stroke:none;stroke-width:0.26458332"
+       sodipodi:type="star"
+       transform="matrix(0.04966938,0,0,0.01900439,-2362.6373,-6081.798)"
+       inkscape:transform-center-y="-0.0001756664" />
+    <path
+       inkscape:transform-center-x="-1.2812582e-005"
+       d="m -559.40476,-4111.7145 301.56296,-171.5604 299.357147,175.381 -2.205806,346.9414 -301.562951,171.5604 -299.35715,-175.381 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-2.0880374"
+       sodipodi:arg1="-2.6116361"
+       sodipodi:r2="300.46609"
+       sodipodi:r1="346.94839"
+       sodipodi:cy="-3936.3335"
+       sodipodi:cx="-260.04761"
+       sodipodi:sides="6"
+       id="path851-2"
+       style="opacity:0.68999999;fill:#a02c79;fill-opacity:0.35170605;stroke:none;stroke-width:0.26458332"
+       sodipodi:type="star"
+       transform="matrix(0.04966938,0,0,0.01900439,-2362.6373,-6081.798)"
+       inkscape:transform-center-y="-0.00017565956" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.68999999;fill:#ff00ff;fill-opacity:0.35170605;stroke:none;stroke-width:0.26458332"
+       id="path910"
+       sodipodi:sides="6"
+       sodipodi:cx="462.64285"
+       sodipodi:cy="-3379.9521"
+       sodipodi:r1="1381.5824"
+       sodipodi:r2="1196.4855"
+       sodipodi:arg1="-1.5976555"
+       sodipodi:arg2="-1.0740567"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 425.53915,-4761.0362 1214.60575,658.4093 37.1037,1381.084 -1177.50205,722.6748 -1214.60575,-658.4093 -37.1037,-1381.084 z"
+       inkscape:transform-center-x="-9.337274e-005"
+       inkscape:transform-center-y="-2.8550132e-005"
+       transform="matrix(-0.06011723,5.6025513e-4,0.00130274,0.01946032,-2326.662,-6085.3624)"
+       onclick="window.open(http://libeafrica4.blogs.liberation.fr/auteurs/Jean-Pierre.Bat/','_blanck);" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.06959057px;line-height:8.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05173975"
+       x="-1939.6174"
+       y="-7688.1685"
+       id="text920"
+       transform="scale(1.247542,0.80157622)"><tspan
+         sodipodi:role="line"
+         id="tspan918"
+         x="-1939.6174"
+         y="-7688.1685"
+         style="stroke-width:0.05173975">Jean Charles Bédague</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.06983566px;line-height:18.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07674592"
+       x="-2235.2976"
+       y="-6582.8521"
+       id="text924"
+       transform="scale(1.0693168,0.93517658)"><tspan
+         sodipodi:role="line"
+         id="tspan922"
+         x="-2235.2976"
+         y="-6582.8521"
+         style="stroke-width:0.07674592">Marie Eve Bouillon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.65705228px;line-height:18.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09142631"
+       x="-2470.4995"
+       y="-5869.6567"
+       id="text928"
+       transform="scale(0.95362368,1.0486317)"
+       onclick="window.open(http://cths.fr/hi/personne.php?id=13222,_blanck);"><tspan
+         sodipodi:role="line"
+         id="tspan926"
+         x="-2470.4995"
+         y="-5869.6567"
+         style="stroke-width:0.09142631">Isabelle Chave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.0791297px;line-height:18.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10197826"
+       x="-1874.6537"
+       y="-7917.4707"
+       id="text932"
+       transform="scale(1.287818,0.77650722)"><tspan
+         sodipodi:role="line"
+         id="tspan930"
+         x="-1874.6537"
+         y="-7917.4707"
+         style="stroke-width:0.10197826">Ali Larbi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.58810878px;line-height:18.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0897027"
+       x="-2681.8206"
+       y="-5430.165"
+       id="text936"
+       transform="scale(0.88434221,1.130784)"><tspan
+         sodipodi:role="line"
+         id="tspan934"
+         x="-2681.8206"
+         y="-5430.165"
+         style="stroke-width:0.0897027">Catherine Milde</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.63321209px;line-height:18.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09083031"
+       x="-2253.5759"
+       y="-6362.8496"
+       id="text940"
+       transform="scale(1.0354727,0.96574253)"><tspan
+         sodipodi:role="line"
+         id="tspan938"
+         x="-2253.5759"
+         y="-6362.8496"
+         style="stroke-width:0.09083031">Benoit Morant</tspan></text>
+    <path
+       style="opacity:0.68999999;fill:#ff00ff;fill-opacity:0.35170605;stroke:none;stroke-width:0.02551249"
+       id="path895"
+       sodipodi:type="arc"
+       sodipodi:cx="-2135.0269"
+       sodipodi:cy="-6305.104"
+       sodipodi:rx="132.69345"
+       sodipodi:ry="30.010834"
+       sodipodi:start="0"
+       sodipodi:end="8.4489818e-005"
+       d="m -2002.3334,-6305.104 a 132.69345,30.010834 0 0 1 0,0 l -132.6935,-0 z" />
+    <path
+       style="opacity:0.68999999;fill:#ff00ff;fill-opacity:0.35170605;stroke:none;stroke-width:0.00812893"
+       id="path897"
+       sodipodi:type="arc"
+       sodipodi:cx="-2324.2637"
+       sodipodi:cy="-6099.8008"
+       sodipodi:rx="26.959236"
+       sodipodi:ry="17.785625"
+       sodipodi:start="0"
+       sodipodi:end="8.4489818e-005"
+       d="m -2297.3044,-6099.8008 a 26.959236,17.785625 0 0 1 0,0 l -26.9593,-0 z" />
+    <ellipse
+       style="opacity:0.68999999;fill:#2b1100;fill-opacity:0.35170605;stroke:none;stroke-width:0.01205898"
+       id="path901"
+       ry="20.802513"
+       rx="68.938065"
+       cy="-6106.3765"
+       cx="-2355.3547"
+       transform="skewY(-0.07144418)" />
+    <ellipse
+       style="opacity:0.68999999;fill:#ff0000;fill-opacity:0.35170605;stroke:none;stroke-width:0.01682349"
+       id="path905"
+       cx="-2362.1865"
+       cy="-6112.1846"
+       rx="25.682621"
+       ry="6.033895" />
+    <ellipse
+       style="opacity:0.68999999;fill:#ff0000;fill-opacity:0.35170605;stroke:none;stroke-width:0.01660765"
+       id="path905-1"
+       cx="-2392.6755"
+       cy="-6102.2139"
+       rx="29.362299"
+       ry="5.1431766"
+       onclick="window.open(https://fr.wikipedia.org/wiki/Pr%C3%A9sident_de_la_R%C3%A9publique_fran%C3%A7aise','_blanck);" />
+    <ellipse
+       style="opacity:0.68999999;fill:#ff0000;fill-opacity:0.35170605;stroke:none;stroke-width:0.01818672"
+       id="path905-7"
+       cx="-2315.177"
+       cy="-6105.5469"
+       rx="22.753899"
+       ry="7.9589939" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.70384216px;line-height:18.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46759605"
+       x="-2838.271"
+       y="-5023.2754"
+       id="text915"
+       transform="scale(0.8229326,1.2151664)"
+       onclick="window.open(https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/consultationIR.action?irId=FRAN_IR_050658','_blanck');"><tspan
+         sodipodi:role="line"
+         id="tspan913"
+         x="-2838.271"
+         y="-5023.2754"
+         style="font-size:2.54759789px;line-height:54.95000076;stroke-width:0.46759605">Cervice photographie de la présidence </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.68360591px;line-height:18.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09209014"
+       x="-2826.4951"
+       y="-5206.6675"
+       id="text919"
+       transform="scale(0.85352432,1.1716128)"><tspan
+         sodipodi:role="line"
+         id="tspan917"
+         x="-2826.4951"
+         y="-5206.6675"
+         style="stroke-width:0.09209014">Présidence de la république</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot921"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:18.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-303)"><flowRegion
+         id="flowRegion923"><rect
+           id="rect925"
+           width="3840"
+           height="754.28571"
+           x="-891.42859"
+           y="-1297.9978" /></flowRegion><flowPara
+         id="flowPara927"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.14690447px;line-height:18.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12867267"
+       x="-1798.5139"
+       y="-8018.0459"
+       id="text931"
+       transform="scale(1.3180581,0.7586919)"><tspan
+         sodipodi:role="line"
+         id="tspan929"
+         x="-1798.5139"
+         y="-8018.0459"
+         style="stroke-width:0.12867267">1938-1958 </tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot933"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:18.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-303)"><flowRegion
+         id="flowRegion935"><rect
+           id="rect937"
+           width="2880"
+           height="754.28571"
+           x="-548.57141"
+           y="-5835.1406" /></flowRegion><flowPara
+         id="flowPara939"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.07490611px;line-height:18.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07687265"
+       x="-3258.144"
+       y="-4474.1851"
+       id="text943"
+       transform="scale(0.73212738,1.3658825)"
+       onclick="window.open(https://www.interieur.gouv.fr/Le-ministere/Secretariat-general/Service-central-des-armes','_blanck);"><tspan
+         sodipodi:role="line"
+         id="tspan941"
+         x="-3258.144"
+         y="-4474.1851"
+         style="stroke-width:0.07687265">cervice centrale duMinistère de l'intérieur </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.00812893px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -2408.7459,-6125.9761 -1.8023,1.2067"
+       id="path949"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#2b0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.00812893px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -2409.4967,-6143.8481 21.327,34.3072"
+       id="path955"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.00812893px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -2312.3233,-6142.3541 -5.4069,28.733"
+       id="path959"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot965"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:18.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-303)"><flowRegion
+         id="flowRegion967"><rect
+           id="rect969"
+           width="5588.5713"
+           height="891.42859"
+           x="-2091.4285"
+           y="-1035.1406" /></flowRegion><flowPara
+         id="flowPara971"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.77357101px;line-height:18.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06933925"
+       x="-1502.0254"
+       y="-9663.8145"
+       id="text975"
+       transform="scale(1.5873185,0.62999329)"><tspan
+         sodipodi:role="line"
+         id="tspan973"
+         x="-1502.0254"
+         y="-9663.8145"
+         style="stroke-width:0.06933925">Documentation photographique</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.00812893px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -2368.0442,-6137.0097 c -0.9011,18.8487 46.5592,23.9633 46.5592,23.9633 l -2.253,-27.5836"
+       id="path977"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.00812893px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -2362.9377,-6101.3233 c 25.6827,-1.8965 25.6827,-1.8965 25.6827,-1.8965 v 0"
+       id="path979"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1536.0952,-4039.1428 c 402.1667,-3.0237 402.1667,-3.0237 402.1667,-3.0237 6.0476,-1270.0002 3.0238,-1270.0002 3.0238,-1270.0002 -653.1428,-12.0952 -650.119,-12.0952 -650.119,-12.0952"
+       id="path983"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.10193535px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1156.8825,-3371.0229 c -119.1879,-1.1159 -119.1879,-1.1159 -119.1879,-1.1159 17.0269,-344.257 17.0269,-344.257 17.0269,-344.257 474.31904,1.116 474.31904,1.116 474.31904,1.116"
+       id="path985"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.68999999;fill:#2b0000;fill-opacity:0.35170605;stroke:none;stroke-width:0.00812893"
+       id="path989"
+       sodipodi:type="arc"
+       sodipodi:cx="-2350.3967"
+       sodipodi:cy="-6093.9102"
+       sodipodi:rx="6.533298"
+       sodipodi:ry="3.1606119"
+       sodipodi:start="0"
+       sodipodi:end="0.0080070645"
+       d="m -2343.8634,-6093.9102 a 6.533298,3.1606119 0 0 1 -2e-4,0.025 l -6.5331,-0.025 z" />
+    <path
+       style="fill:url(#meshgradient1011);fill-opacity:1;fill-rule:evenodd;stroke:#1f1b31;stroke-width:0.05291667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1273)"
+       d="m -2420.7581,-5425.0703 78.0143,-109.462"
+       id="path993"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.25774818,0,0,0.21885739,-1792.5874,-4919.373)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.01686062px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -2403.1482,-6142.3116 c 5.5258,24.466 5.3558,24.9026 5.3558,24.9026"
+       id="path1277"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.05291667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1915.1771,-6370.918 -1.2095,3.0238"
+       id="path1279"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.05291667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1900.6628,-6338.2609 -142.1191,15.1191"
+       id="path1281"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.05291667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -2004.0771,-6327.3752 Z"
+       id="path1287"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
