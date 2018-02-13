@@ -15,7 +15,7 @@
    viewBox="0 0 211.66667 158.75"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="dessin.svg">
   <defs
      id="defs2">
@@ -84,15 +84,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994948"
-     inkscape:cx="239.51343"
-     inkscape:cy="532.61058"
+     inkscape:cx="359.72158"
+     inkscape:cy="128.54956"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="745"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1280"
+     inkscape:window-height="980"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -599,10 +599,11 @@
          x="52.830273"
          y="168.7802">numériques</tspan></text>
     <path
-       style="fill:none;stroke:#00ff00;stroke-width:0.07107311px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 71.679279,205.07139 c 7.5395,-36.67155 7.81984,-36.96573 7.81984,-36.96573"
+       style="fill:none;stroke:#00ff00;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 103.48435,245.69636 74.478238,211.62071 c -3.43356,-4.03365 11.110946,-13.19954 10.620012,-15.53157 l -5.760739,-27.36452 c -0.12723,-0.60437 0.161608,-0.61896 0.161608,-0.61896"
        id="path6320"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
     <g
        id="g1250"
        onclick="window.open('https://www.google.fr/','_blanck');">
