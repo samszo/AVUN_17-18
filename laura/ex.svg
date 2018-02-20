@@ -14,7 +14,7 @@
    viewBox="0 0 211.66666 158.75"
    version="1.1"
    id="svg8"
-   sodipodi:docname="ex.svg"
+   sodipodi:docname="ex-2.svg"
    inkscape:version="0.92.1 r15371">
   <defs
      id="defs2">
@@ -139,7 +139,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9050967"
-     inkscape:cx="312.90669"
+     inkscape:cx="410.13387"
      inkscape:cy="329.08841"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -169,13 +169,22 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-138.24998)">
-    <ellipse
-       style="fill:#2b1100;fill-opacity:0;stroke:#000000;stroke-width:0.18857527;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path458"
-       cx="111.24361"
-       cy="250.35579"
-       rx="92.151566"
-       ry="26.410078" />
+    <g
+       id="g4794"
+       onclick="window.open('https://goo.gl/rufCFG','_blanck');">
+      <g
+         onclick="window.open('https://goo.gl/rufCFG','_blanck');"
+         id="g4772">
+        <ellipse
+           style="fill:#2b1100;fill-opacity:0;stroke:#000000;stroke-width:0.18857527;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path458"
+           cx="111.24361"
+           cy="250.35579"
+           rx="92.151566"
+           ry="26.410078"
+           onclick="window.open('https://goo.gl/rufCFG','_blanck');" />
+      </g>
+    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4582"
@@ -898,7 +907,7 @@
            x="66.966591">emploi</tspan></tspan></text>
     <path
        sodipodi:type="star"
-       style="fill:#ffffff;fill-opacity:0.99516913;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1;paint-order:fill markers stroke"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1;paint-order:fill markers stroke"
        id="path5112-4-7-0"
        sodipodi:sides="6"
        sodipodi:cx="-551.81854"
@@ -1325,21 +1334,6 @@
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.045637"
-       x="150.04272"
-       y="178.46912"
-       id="text1803"><tspan
-         sodipodi:role="line"
-         x="150.04272"
-         y="178.46912"
-         id="tspan1801"
-         style="font-size:1.82547998px;line-height:1.25;stroke-width:0.045637"><tspan
-           x="150.04272"
-           y="178.46912"
-           id="tspan1799"
-           style="stroke-width:0.045637">Résultats du vote</tspan></tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.43795395px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09098045"
        x="89.556496"
        y="278.87195"
@@ -1363,7 +1357,8 @@
        rx="42.499458"
        ry="15.687718"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       onclick="window.open('https://goo.gl/fZBHSG','_blanck');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:11.50366879px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08678634"
