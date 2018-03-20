@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+ <head>
+  <title>Inintelligence artificielle</title>
+  <type>Private</type>
+  <creationDate>2018-03-20 11:47:29</creationDate>
+ </head>
+ <body>
+  <outline title="inintelligence artificielle  actualites" cols="3" layout="3-0">
+   <outline title="Commentaires sur : Priorité à l’Intelligence Artificielle dans la finance, l’exemple JPMorgan" xmlUrl="https://itsocial.fr/innovation/intelligence-artificielle/priorite-a-lintelligence-artificielle-finance-lexemple-jpmorgan/feed/" htmlUrl="https://itsocial.fr/innovation/intelligence-artificielle/priorite-a-lintelligence-artificielle-finance-lexemple-jpmorgan/" type="rss" row="500" col="1"/>
+   <outline type="ExtendedVibes" title="News Recherche : 'inintelligence artificielle ' (fr_FR)" row="1000" col="1">
+    <outline searchType="news" streamTypes="bing-news,exalead-news" mySearch="inintelligence artificielle " filterSearch="fr_FR" searchLimit="5" geocode="" radius="" unit="kilometers" showThumb="1" pagerPosition="bottom" activeTab="bing-news" nvid="" lockedTab="false" latLong="" lightVersion="false" searchHistory="inintelligence artificielle "/>
+   </outline>
+   <outline type="ExtendedVibes" title="Video Recherche : 'inintelligence artificielle ' (fr_FR)" row="1000" col="2">
+    <outline searchType="video" streamTypes="youtube,dailymotion" mySearch="inintelligence artificielle " filterSearch="fr_FR" searchLimit="5" geocode="" radius="" unit="kilometers" showThumb="1" pagerPosition="bottom" activeTab="youtube" nvid="" lockedTab="false" latLong="" lightVersion="false" searchHistory="inintelligence artificielle "/>
+   </outline>
+   <outline type="ExtendedVibes" title="Recherche Twitter : 'inintelligence artificielle ' (fr_FR)" row="1000" col="3">
+    <outline mySearch="inintelligence artificielle " filterSearch="fr_FR" searchLimit="3" geocode="" radius="" unit="kilometers" showThumb="1" pagerPosition="bottom" activeTab="twitter-search" nvid="" streamTypes="twitter-search" searchType="social" lockedTab="false" latLong="" lightVersion="false" searchHistory="inintelligence artificielle "/>
+   </outline>
+   <outline type="ExtendedVibes" title="BoardReader : 'inintelligence artificielle ' (fr_FR)" row="2000" col="3">
+    <outline streamTypes="boardreader" lockedTab="true" mySearch="inintelligence artificielle " activeTab="boardreader" searchHistory="[&quot;inintelligence artificielle &quot;,&quot;netvibes&quot;]" lightVersion="" filterSearch="fr_FR" showThumb=""/>
+   </outline>
+  </outline>
+  <outline title="Nouvel onglet 2" cols="3" layout="3-0"/>
+ </body>
+</opml>

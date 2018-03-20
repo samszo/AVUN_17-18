@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+ <head>
+  <title>RFID</title>
+  <type>Private</type>
+  <creationDate>2018-03-20 11:47:29</creationDate>
+ </head>
+ <body>
+  <outline title="rfid actualites" cols="3" layout="3-0">
+   <outline type="ExtendedVibes" title="News Recherche : 'rfid' (fr_FR)" row="1000" col="1">
+    <outline searchType="news" streamTypes="bing-news,exalead-news" mySearch="rfid" filterSearch="fr_FR" searchLimit="5" geocode="" radius="" unit="kilometers" showThumb="1" pagerPosition="bottom" activeTab="bing-news" nvid="" lockedTab="false" latLong="" lightVersion="false" searchHistory="rfid"/>
+   </outline>
+   <outline type="ExtendedVibes" title="Video Recherche : 'rfid' (fr_FR)" row="1000" col="2">
+    <outline searchType="video" streamTypes="youtube,dailymotion" mySearch="rfid" filterSearch="fr_FR" searchLimit="5" geocode="" radius="" unit="kilometers" showThumb="1" pagerPosition="bottom" activeTab="youtube" nvid="" lockedTab="false" latLong="" lightVersion="false" searchHistory="rfid"/>
+   </outline>
+   <outline type="ExtendedVibes" title="Recherche Twitter : 'rfid' (fr_FR)" row="1000" col="3">
+    <outline mySearch="rfid" filterSearch="fr_FR" searchLimit="3" geocode="" radius="" unit="kilometers" showThumb="1" pagerPosition="bottom" activeTab="twitter-search" nvid="" streamTypes="twitter-search" searchType="social" lockedTab="false" latLong="" lightVersion="false" searchHistory="rfid"/>
+   </outline>
+   <outline type="ExtendedVibes" title="BoardReader : 'rfid' (fr_FR)" row="2000" col="3">
+    <outline streamTypes="boardreader" lockedTab="true" mySearch="rfid" activeTab="boardreader" searchHistory="[&quot;rfid&quot;,&quot;netvibes&quot;]" lightVersion="" filterSearch="fr_FR" showThumb=""/>
+   </outline>
+  </outline>
+ </body>
+</opml>
