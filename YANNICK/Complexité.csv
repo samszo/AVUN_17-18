@@ -1,0 +1,20 @@
+Complexité global;;;;;Complexité de rapports;;;;;;;
+;;;;;;;;;;;;
+Dimensions;Niveau;Nombre d'éléments;Complexité;;"Nbre de
+ rapports";"Nbre de 
+Sources ";"Type 
+de source";"Nbre de 
+Destination";"Type de 
+destination";"Nbre de 
+prédicats";"Type de 
+prédicat";Complexité
+Document ;1;1;1;;6;4;Ducuments;6;Acteurs;0;;16
+Document ;2;3;6;;2;2;Concepts;2;"Acteurs 
+(Groupe d'acteurs)";0;;6
+Acteur;1;2;2;;9;6;Acteurs;9;Concepts;0;;24
+Acteur;2;6;12;;17;;;;;;;46
+concept;1;1;1;;;;;;;;;
+concept;3;9;27;;;;;;;;;
+concept;2;5;10;;;;;;;;;
+Rapport;1;17;17;;;;;;;;;
+;;;76;;;;;;;;;
