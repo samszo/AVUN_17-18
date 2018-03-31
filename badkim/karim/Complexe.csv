@@ -1,0 +1,19 @@
+Dimesions ;Niveau;Nombre d'element;Complexite;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;Dimension;Niveau;Nombre d'element;Complexite
+;;;;;;1;1;1
+;;;;;Document;2;1;1
+;;;;;;2;2;2
+;;;;;;1;2;2
+;;;;;Acteurs;2;2;2
+;;;;;;2;4;4
+;;;;;;1;1;1
+;;;;;;2;2;4
+;;;;;Concepts;3;4;12
+;;;;;;4;2;8
+;;;;;;4;9;33
+;;;;;;1;10;10
+;;;;;;9;25;225
