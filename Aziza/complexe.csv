@@ -1,0 +1,24 @@
+Dimension,Niveau,,,,,,Nombre d’éléments,Complexité
+Document,1,,,,,,1,1
+,2,,,,,,3,6
+,2,,,,,,4,7
+Acteurs,1,,,,,,1,1
+,2,,,,,,1,2
+,2,,,,,,2,3
+Concept,1,,,,,,1,1
+,2,,,,,,3,6
+,3,,,,,,12,36
+,4,,,,,,12,48
+,4,,,,,,28,91
+Rapport,Nb Rapport,Nb sources,Type de source,Nb destination,Type destination,Nb prédicat,Type prédicat,Complexité
+,10,9,concept,1,acteur président,5,document,25
+,10,1,concept,1,acteur commission,1,document,13
+,5,1,document,4,concept,4,acteur président,14
+,2,1,document,1,concept,1,acteur commission,5
+,10,1,acteur commission,1,document,9,concept,21
+,13,4,acteur président,4,document,9,concept,30
+,8,4,acteur président,4,concept,4,concept,20
+,1,0,concept,1,document,1,acteur commission,3
+,59,21,,17,,34,,131
+,1,,,59,,,131,
+Total,9,,,93,,,232,
