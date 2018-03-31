@@ -1,0 +1,17 @@
+Dimension;Niveau;;Nombre d'‚l‚ment;;;Complexit‚;;
+Dociment;1;;;4;;;4;
+;2;;;1;;;2;
+Acteur;1;;;4;;;4;
+;2;;;11;;;11;
+Concept;1;;;4;;;4;
+;2;;;10;;;20;
+;3;;;6;;;12;
+Rapport;Nb de rapport;Nb source;Type source;Nb destionation;Type destination;Nb predicat;Type predicat;Cmplexit‚
+;15;4;Document;4;Acteur;1;Acteur;23
+;11;11;Acteur concept;11;concept;1;concept;34
+;;;;;;;;
+;26;15;;15;;2;;57
+;1;;26;;;;57;
+Total;6;;40;;;;77;
+;;;;;;;;
+;;;;;;;;
