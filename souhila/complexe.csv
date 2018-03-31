@@ -1,0 +1,20 @@
+﻿Dimension;Niveau;;;;;;Nombre d'elements;Complexite
+Document;1;;;;;;1;1
+;2;;;;;;3;6
+;2;;;;;;4;7
+Acteurs;1;;;;;;2;2
+;1;;;;;;2;2
+Concept;1;;;;;;1;1
+;2;;;;;;3;6
+;3;;;;;;14;42
+;3;;;;;;18;49
+Rapport;Nb Rapport;Nb sources;Type de source;Nb destination;Type destination;Nb predicat;Type predicat;Complexite
+;5;1;Document;4;Concept;2;Acteur President;12
+;5;1;Document;4;Concept;2;Acteur Commission;12
+;10;2;Acteur president;6;Document;4;Concept;22
+;10;2;Acteur commission;6;Document;4;Concept;22
+;7;6;Concept;1;Acteur President;6;Document;20
+;7;6;Concept;1;Acteur commission ;6;Document;20
+;44;18;;22;;24;;108
+;1;;;44;;;;108
+Total;7;;;68;;;166;
