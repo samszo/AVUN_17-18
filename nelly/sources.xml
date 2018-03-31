@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+ <head>
+  <title>AVUN</title>
+  <type>Private</type>
+  <creationDate>2018-03-31 19:05:19</creationDate>
+ </head>
+ <body>
+  <outline title="big data actualites" cols="3" layout="3-0">
+   <outline title="Le JCM | Journal du Community Manager » Flux" xmlUrl="https://www.journalducm.com/feed/" htmlUrl="https://www.journalducm.com/" type="rss" row="125" col="1"/>
+   <outline title="Le blog de la Communication digitale" xmlUrl="https://www.communication-web.net/feed/" htmlUrl="https://www.communication-web.net/" type="rss" row="250" col="1"/>
+   <outline title="Blog du Modérateur" xmlUrl="https://www.blogdumoderateur.com/feed/" htmlUrl="https://www.blogdumoderateur.com/" type="rss" row="500" col="1"/>
+   <outline type="ExtendedVibes" title="News Recherche : 'big data' (fr_FR)" row="1000" col="1">
+    <outline searchType="news" streamTypes="bing-news,exalead-news" mySearch="big data" filterSearch="fr_FR" searchLimit="5" geocode="" radius="" unit="kilometers" showThumb="1" pagerPosition="bottom" activeTab="bing-news" nvid="" lockedTab="false" latLong="" lightVersion="false" searchHistory="big data"/>
+   </outline>
+   <outline title="Le JCM | Journal du Community Manager » Flux des commentaires" xmlUrl="https://www.journalducm.com/comments/feed/" htmlUrl="https://www.journalducm.com/" type="rss" row="125" col="2"/>
+   <outline title="FAGE | RSS" xmlUrl="https://www.fage.org/rss" htmlUrl="" type="rss" row="250" col="2"/>
+   <outline title="Le blog du Communicant" xmlUrl="http://feeds.feedburner.com/LeBlogDuCommunicant20" htmlUrl="http://www.leblogducommunicant2-0.com/" type="rss" row="500" col="2"/>
+   <outline type="ExtendedVibes" title="Video Recherche : 'big data' (fr_FR)" row="1000" col="2">
+    <outline searchType="video" streamTypes="youtube,dailymotion" mySearch="big data" filterSearch="fr_FR" searchLimit="5" geocode="" radius="" unit="kilometers" showThumb="1" pagerPosition="bottom" activeTab="youtube" nvid="" lockedTab="false" latLong="" lightVersion="false" searchHistory="big data"/>
+   </outline>
+   <outline title="Commentaires pour Vu Du Web" xmlUrl="https://www.vu-du-web.com/comments/feed/" htmlUrl="https://www.vu-du-web.com/" type="rss" row="250" col="3"/>
+   <outline title="My Community Manager" xmlUrl="http://feeds.feedburner.com/Mycm" htmlUrl="http://www.mycommunitymanager.fr/" type="rss" row="500" col="3"/>
+   <outline type="ExtendedVibes" title="Recherche Twitter : 'big data' (fr_FR)" row="1000" col="3">
+    <outline mySearch="big data" filterSearch="fr_FR" searchLimit="3" geocode="" radius="" unit="kilometers" showThumb="1" pagerPosition="bottom" activeTab="twitter-search" nvid="" streamTypes="twitter-search" searchType="social" lockedTab="false" latLong="" lightVersion="false" searchHistory="big data"/>
+   </outline>
+   <outline type="ExtendedVibes" title="BoardReader : 'big data' (fr_FR)" row="2000" col="3">
+    <outline streamTypes="boardreader" lockedTab="true" mySearch="big data" activeTab="boardreader" searchHistory="[&quot;big data&quot;,&quot;netvibes&quot;]" lightVersion="" filterSearch="fr_FR" showThumb=""/>
+   </outline>
+  </outline>
+ </body>
+</opml>
