@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+ <head>
+  <title> numérique</title>
+  <type>Private</type>
+  <creationDate>2018-03-31 07:38:52</creationDate>
+ </head>
+ <body>
+  <outline title=" numérique actualites" cols="3" layout="3-0">
+   <outline title="Web Design – La Revue du Digital" xmlUrl="http://www.larevuedudigital.com/category/webdesign/feed/" htmlUrl="http://www.larevuedudigital.com/" type="rss" row="15.625" col="1"/>
+   <outline title="Objets connectés – La Revue du Digital" xmlUrl="http://www.larevuedudigital.com/category/objetsconnectes/feed/" htmlUrl="http://www.larevuedudigital.com/" type="rss" row="62.5" col="1"/>
+   <outline title="Veille éducation numérique" xmlUrl="http://eduscol.education.fr/numerique/tout-le-numerique/veille-education-numerique/fil/rss.xml" htmlUrl="http://eduscol.education.fr/numerique/tout-le-numerique/veille-education-numerique/fil/@@xiti_redirect?url=http%3A//eduscol.education.fr/numerique/tout-le-numerique/veille-education-numerique" type="rss" row="250" col="1"/>
+   <outline title="Logiciel Libre – Systematic Paris-Region" xmlUrl="https://systematic-paris-region.org/fr/groupe_thematique/logiciels-libres/feed/" htmlUrl="https://systematic-paris-region.org/" type="rss" row="1000" col="1"/>
+   <outline title="Confiance Numérique &amp;amp; Sécurité – Systematic Paris-Region" xmlUrl="https://systematic-paris-region.org/fr/groupe_thematique/confiance-numerique-securite/feed/" htmlUrl="https://systematic-paris-region.org/" type="rss" row="2000" col="1"/>
+   <outline title="Systematic Paris-Region" xmlUrl="https://systematic-paris-region.org/fr/feed/" htmlUrl="https://systematic-paris-region.org/" type="rss" row="3000" col="1"/>
+   <outline title="Lectures" xmlUrl="http://journals.openedition.org/lectures/backend?format=rssdocuments&amp;idcontainer=1368&amp;getreviews=1&amp;descriptionlength=800" htmlUrl="http://journals.openedition.org/lectures" type="rss" row="4000" col="1"/>
+   <outline title="Inriality - RSS" xmlUrl="https://www.inriality.fr/rss-thematique.xml/informatique/" htmlUrl="https://www.inriality.fr/flux-rss-par-th-matique/informatique/" type="rss" row="5000" col="1"/>
+   <outline title="Les Numériques" xmlUrl="http://feeds.feedburner.com/lesnumeriques/news" htmlUrl="https://www.lesnumeriques.com/" type="rss" row="6000" col="1"/>
+   <outline type="ExtendedVibes" title="News Recherche : ' numérique' (fr_FR)" row="7000" col="1">
+    <outline searchType="news" streamTypes="bing-news,exalead-news" mySearch=" numérique" filterSearch="fr_FR" searchLimit="5" geocode="" radius="" unit="kilometers" showThumb="1" pagerPosition="bottom" activeTab="bing-news" nvid="" lockedTab="false" latLong="" lightVersion="false" searchHistory=" numérique"/>
+   </outline>
+   <outline title="Informatique – La Revue du Digital" xmlUrl="http://www.larevuedudigital.com/category/informatique/feed/" htmlUrl="http://www.larevuedudigital.com/" type="rss" row="1000" col="2"/>
+   <outline title="Big Data – La Revue du Digital" xmlUrl="http://www.larevuedudigital.com/category/bigdata/feed/" htmlUrl="http://www.larevuedudigital.com/" type="rss" row="2000" col="2"/>
+   <outline title="A la une – La Revue du Digital" xmlUrl="http://www.larevuedudigital.com/category/articledeuneprincipale/feed/" htmlUrl="http://www.larevuedudigital.com/" type="rss" row="3000" col="2"/>
+   <outline title="Écrire pour le web" xmlUrl="https://www.ecrirepourleweb.com/feed/" htmlUrl="https://www.ecrirepourleweb.com/" type="rss" row="4000" col="2"/>
+   <outline title="TIC &amp;amp; Santé – Systematic Paris-Region" xmlUrl="https://systematic-paris-region.org/fr/groupe_thematique/tic-sante/feed/" htmlUrl="https://systematic-paris-region.org/" type="rss" row="5000" col="2"/>
+   <outline title="Outils de Conception &amp;amp; Développement de Systèmes – Systematic Paris-Region" xmlUrl="https://systematic-paris-region.org/fr/groupe_thematique/outils-de-conception-de-developpement-systemes/feed/" htmlUrl="https://systematic-paris-region.org/" type="rss" row="6000" col="2"/>
+   <outline title="Architecture de l'Information" xmlUrl="https://archinfo.hypotheses.org/feed" htmlUrl="https://archinfo.hypotheses.org/" type="rss" row="7000" col="2"/>
+   <outline title="Digital Humanities à l'Institut historique allemand" xmlUrl="https://dhiha.hypotheses.org/feed" htmlUrl="https://dhiha.hypotheses.org/" type="rss" row="8000" col="2"/>
+   <outline title="L'histoire contemporaine à l'ère numérique" xmlUrl="https://histnum.hypotheses.org/feed" htmlUrl="https://histnum.hypotheses.org/" type="rss" row="9000" col="2"/>
+   <outline title="Études de communication" xmlUrl="http://journals.openedition.org/edc/backend?format=rssnumeros" htmlUrl="http://journals.openedition.org/edc" type="rss" row="10000" col="2"/>
+   <outline title="Études de communication" xmlUrl="http://journals.openedition.org/edc/backend?format=rssdocuments" htmlUrl="http://journals.openedition.org/edc" type="rss" row="11000" col="2"/>
+   <outline type="ExtendedVibes" title="Video Recherche : ' numérique' (fr_FR)" row="12000" col="2">
+    <outline searchType="video" streamTypes="youtube,dailymotion" mySearch=" numérique" filterSearch="fr_FR" searchLimit="5" geocode="" radius="" unit="kilometers" showThumb="1" pagerPosition="bottom" activeTab="youtube" nvid="" lockedTab="false" latLong="" lightVersion="false" searchHistory=" numérique"/>
+   </outline>
+   <outline title="Mobile – La Revue du Digital" xmlUrl="http://www.larevuedudigital.com/category/mobile/feed/" htmlUrl="http://www.larevuedudigital.com/" type="rss" row="1000" col="3"/>
+   <outline title="Digital – La Revue du Digital" xmlUrl="http://www.larevuedudigital.com/category/digital/feed/" htmlUrl="http://www.larevuedudigital.com/" type="rss" row="2000" col="3"/>
+   <outline title="Écrire pour le web" xmlUrl="https://www.ecrirepourleweb.com/feed/" htmlUrl="https://www.ecrirepourleweb.com/" type="rss" row="3000" col="3"/>
+   <outline title="Télécoms – Systematic Paris-Region" xmlUrl="https://systematic-paris-region.org/fr/groupe_thematique/telecoms/feed/" htmlUrl="https://systematic-paris-region.org/" type="rss" row="4000" col="3"/>
+   <outline title="Ville Numérique – Systematic Paris-Region" xmlUrl="https://systematic-paris-region.org/fr/groupe_thematique/ville-numerique/feed/" htmlUrl="https://systematic-paris-region.org/" type="rss" row="5000" col="3"/>
+   <outline title="Systèmes d’Information – Systematic Paris-Region" xmlUrl="https://systematic-paris-region.org/fr/groupe_thematique/systemes-dinformation/feed/" htmlUrl="https://systematic-paris-region.org/" type="rss" row="6000" col="3"/>
+   <outline title="Numerama" xmlUrl="https://www.numerama.com/feed/" htmlUrl="https://www.numerama.com/" type="rss" row="7000" col="3"/>
+   <outline title="Ecosystem services and sustainable water management" xmlUrl="https://sewater.hypotheses.org/feed" htmlUrl="https://sewater.hypotheses.org/" type="rss" row="8000" col="3"/>
+   <outline title="Revue française des sciences de l’information et de la communication" xmlUrl="http://journals.openedition.org/rfsic/backend?format=rssnumeros" htmlUrl="http://journals.openedition.org/rfsic" type="rss" row="9000" col="3"/>
+   <outline type="ExtendedVibes" title="Recherche Twitter : ' numérique' (fr_FR)" row="10000" col="3">
+    <outline mySearch=" numérique" filterSearch="fr_FR" searchLimit="3" geocode="" radius="" unit="kilometers" showThumb="1" pagerPosition="bottom" activeTab="twitter-search" nvid="" streamTypes="twitter-search" searchType="social" lockedTab="false" latLong="" lightVersion="false" searchHistory=" numérique"/>
+   </outline>
+   <outline type="ExtendedVibes" title="BoardReader : ' numérique' (fr_FR)" row="11000" col="3">
+    <outline streamTypes="boardreader" lockedTab="true" mySearch=" numérique" activeTab="boardreader" searchHistory="[&quot; numérique&quot;,&quot;netvibes&quot;]" lightVersion="" filterSearch="fr_FR" showThumb=""/>
+   </outline>
+  </outline>
+ </body>
+</opml>
