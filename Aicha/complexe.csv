@@ -1,0 +1,22 @@
+Dimension;Niveau;;;;;;Nombre d’éléments;Complexité
+Document;1;;;;;;1;1
+;2;;;;;;1;2
+;3;;;;;;3;9
+;3;;;;;;5;12
+Acteurs;1;;;;;;3;3
+;2;;;;;;11;22
+;2;;;;;;14;25
+Concept;1;;;;;;1;1
+;2;;;;;;3;6
+;3;;;;;;7;21
+;3;;;;;;11;28
+Rapport;Nb Rapport;Nb sources;Type de source;Nb destination;Type destination;Nb prédicat;Type prédicat;Complexité
+;4;1;concept;3;document;1;acteur archives nationales;9
+;2;1;concept;1;acteur service central photographique du ministre de l'intérieur;1;acteur archives nationales;5
+;17;12;acteur service photographique de la présidence de la république;1;acteur archives nationales;16;concept;73
+;5;2;acteur archives nationales;2;acteur service photographique de la présidence de la république;2;acteur service central photographique du ministre de l'intérieur;11
+;18;2;acteur archives nationales;16;concept;2;acteur service central photographique du ministre de l'intérieur;38
+;5;2;acteur archives nationales;1;concept;2;concept;10
+;51;20;;24;;24;;146
+;1;;;51;;;131;
+Total;9;;;81;;;196;
