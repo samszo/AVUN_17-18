@@ -1,0 +1,22 @@
+Dimensions;Niveau;;;Nombre d’élément;;;;Complexité
+Document;1;;;1;;;;1
+;2;;;1;;;;2
+;3;;;2;;;;3
+Acteur;1;;;3;;;;3
+;2;;;2;;;;4
+;3;;;5;;;;7
+Concept;1;;;1;;;;1
+;2;;;11;;;;22
+;3;;;12;;;;23
+Rapport ;Nb. de rapport;Nb. de sources ;Type de source;;Nb. de destination;Type de destination;Nb. de prédicat;
+;4;4;Document;;4;Acteur;/;
+;3;3;Document;;3;Acteur;/;
+;1;1;Acteur;;1;Acteur;/;
+;8;8;Acteur;;8;Concept;/;
+;2;2;Acteur;;2;Concept;/;
+;7;7;Concept;;7;Concept;6;
+;6;6;Acteur;;6;Concept;2;
+;1;2;Concept;;2;Concept;/;
+;32;33;;;33;;8;
+;1;;;32;;;;3106
+TOTAL;10;;;51;;;;3139
