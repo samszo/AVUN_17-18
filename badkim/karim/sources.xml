@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+ <head>
+  <title>Personal Dashboard</title>
+  <type>Private</type>
+  <creationDate>2018-03-31 15:04:47</creationDate>
+ </head>
+ <body>
+  <outline title="Welcome" icon="home" iconColor="blue" cols="4" layout="4-1">
+   <outline title="Accueil" xmlUrl="http://www.nticweb.com/?format=feed&amp;type=rss" htmlUrl="http://www.nticweb.com/component/content/?view=featured" type="rss" row="1000" col="1"/>
+   <outline title="JeuneAfrique.comJeuneAfrique.com" xmlUrl="http://www.jeuneafrique.com/feed/" htmlUrl="http://www.jeuneafrique.com/" type="rss" row="2000" col="1"/>
+   <outline type="WelcomeVip" title="Welcome to your Dashboard" row="3000" col="1">
+    <outline color="borderless" mode="welcome"/>
+   </outline>
+   <outline type="Weather" title="Paris, France" row="1000" col="3">
+    <outline unit="1" town="48.859/2.321"/>
+   </outline>
+   <outline type="TodoList" title="To Do List" row="1000" col="4">
+    <outline todos="{&quot;t1&quot;:{&quot;title&quot;:&quot;Organize your life!&quot;,&quot;color&quot;:&quot;#078d93&quot;,&quot;id&quot;:&quot;t1&quot;},&quot;t2&quot;:{&quot;title&quot;:&quot;Write Things Down&quot;,&quot;color&quot;:&quot;#96BC0D&quot;,&quot;id&quot;:&quot;t2&quot;},&quot;t3&quot;:{&quot;title&quot;:&quot;Make Schedules and Deadlines&quot;,&quot;color&quot;:&quot;#96BC0D&quot;,&quot;id&quot;:&quot;t3&quot;}}"/>
+   </outline>
+  </outline>
+  <outline title="news media" cols="4" layout="4-0">
+   <outline title="Les informations de La Chaîne Météo" xmlUrl="http://actualite.lachainemeteo.com/meteo-rss/toute-l-actualite-meteo.xml?xtdate=20180326" htmlUrl="http://actualite.lachainemeteo.com/meteo-rss/toute-l-actualite-meteo.xml?xtdate=20180331" type="rss" row="7.8125" col="1"/>
+   <outline title="20Minutes - Une" xmlUrl="http://www.20minutes.fr/rss/une.xml" htmlUrl="https://www.20minutes.fr/" type="rss" row="15.625" col="1"/>
+   <outline title="MYTF1News - L'info en continu" xmlUrl="http://tf1.lci.fr/xml/rss/0,,10,00.xml" htmlUrl="http://lci.tf1.fr/" type="rss" row="31.25" col="1"/>
+   <outline title="Le Monde.fr - Actualités et Infos en France et dans le monde" xmlUrl="http://www.lemonde.fr/rss/sequence/0,2-3208,1-0,0.xml" htmlUrl="http://www.lemonde.fr/rss/une.xml" type="rss" row="62.5" col="1"/>
+   <outline title="L'Obs en temps réel : Accueil" xmlUrl="http://tempsreel.nouvelobs.com/rss.xml" htmlUrl="http://www.nouvelobs.com/" type="rss" row="125" col="1"/>
+   <outline title="Les Echos - actualité à la Une des Echos.fr" xmlUrl="http://syndication.lesechos.fr/rss/rss_une_titres.xml" htmlUrl="https://www.lesechos.fr/" type="rss" row="250" col="1"/>
+   <outline title="A la une – France 24 - L’Actualité Internationale 24h&amp;#x2F;24" xmlUrl="http://www.france24.com/fr/actualites/rss" htmlUrl="http://www.france24.com/fr/actualites/rss" type="rss" row="500" col="1"/>
+   <outline title="Franceinfo - Les Titres" xmlUrl="https://www.francetvinfo.fr/titres.rss" htmlUrl="https://www.francetvinfo.fr/titres/" type="rss" row="1000" col="1"/>
+   <outline title="LEXPRESS.fr - RSS Tout L'Entreprise" xmlUrl="https://lentreprise.lexpress.fr/rss/actualite.xml" htmlUrl="https://lentreprise.lexpress.fr/" type="rss" row="250" col="2"/>
+   <outline title="Courrier international - Actualités France et Monde, vidéos, infographies" xmlUrl="https://www.courrierinternational.com/feed/category/6260/rss.xml" htmlUrl="https://www.courrierinternational.com/" type="rss" row="500" col="2"/>
+   <outline title="Flux toutes les actualités - actualites" xmlUrl="http://www.bfmtv.com/rss/info/flux-rss/flux-toutes-les-actualites/" htmlUrl="http://www.bfmtv.com/info/flux-rss/flux-toutes-les-actualites/" type="rss" row="1000" col="2"/>
+   <outline title="Atlas des flux" xmlUrl="http://atlasflux.saynete.net/actualite_rss.xml" htmlUrl="http://atlasflux.saynete.net/actualite_rss.xml" type="rss" row="500" col="3"/>
+   <outline title="Actu : Toute l'actualité sur Le Monde.fr." xmlUrl="http://www.lemonde.fr/m-actu/rss_full.xml" htmlUrl="http://www.lemonde.fr/m-actu/rss_full.xml" type="rss" row="1000" col="3"/>
+   <outline title="notre-planete.info : dernières infos" xmlUrl="https://www.notre-planete.info/news/news.xml" htmlUrl="https://www.notre-planete.info/" type="rss" row="500" col="4"/>
+   <outline title="Le Point - En continu" xmlUrl="http://www.lepoint.fr/24h-infos/rss.xml" htmlUrl="http://www.lepoint.fr/#xtor=RSS-221" type="rss" row="1000" col="4"/>
+  </outline>
+  <outline title="Art et culture" cols="4" layout="4-0">
+   <outline title="Calenda - À la Une" xmlUrl="http://calenda.org/feed.php?frontpage=1" htmlUrl="https://calenda.org/" type="rss" row="500" col="1"/>
+   <outline title="art digital - art numérique - Travail récent" xmlUrl="http://www.artnumerique.net/feed.rss" htmlUrl="http://www.artnumerique.net/" type="rss" row="1000" col="1"/>
+   <outline title="College de Wazemmes - College de Wazemmes - Arts Numériques Afrique 3D" xmlUrl="http://collegedewazemmes.fr/index.php/itemlist/category/79-arts-numerique-afrique-3d?format=feed" htmlUrl="http://collegedewazemmes.fr/" type="rss" row="1000" col="3"/>
+   <outline title="Blog – Digitalarti" xmlUrl="https://www.digitalarti.com/news/feed/" htmlUrl="https://www.digitalarti.com/" type="rss" row="500" col="4"/>
+   <outline title="LaPresse.ca - Arts" xmlUrl="http://www.lapresse.ca/rss/216.xml" htmlUrl="http://www.lapresse.ca/" type="rss" row="1000" col="4"/>
+  </outline>
+  <outline title="Marketing&amp;#x2F;Pub" cols="4" layout="4-0">
+   <outline title="Influencia" xmlUrl="http://www.influencia.net/rss.htm" htmlUrl="http://www.influencia.net/" type="rss" row="7.8125" col="1"/>
+   <outline title="Michelle Blanc, M.Sc. commerce électronique. Marketing Internet, consultante, conférencière, aute" xmlUrl="https://www.michelleblanc.com/feed/" htmlUrl="https://www.michelleblanc.com/" type="rss" row="15.625" col="1"/>
+   <outline title="ConseilsMarketing.com » Flux" xmlUrl="http://www.conseilsmarketing.com/feed" htmlUrl="http://www.conseilsmarketing.com/" type="rss" row="31.25" col="1"/>
+   <outline title="Dans Ta Pub » Flux" xmlUrl="https://www.danstapub.com/feed/" htmlUrl="https://www.danstapub.com/" type="rss" row="62.5" col="1"/>
+   <outline title="Comarketing-News » Flux" xmlUrl="https://comarketing-news.fr/feed/" htmlUrl="https://comarketing-news.fr/" type="rss" row="125" col="1"/>
+   <outline title="LSA - Actualités à la une" xmlUrl="http://rss.lsa-conso.fr/Lsa-rss" htmlUrl="https://www.lsa-conso.fr/" type="rss" row="250" col="1"/>
+   <outline title="Flux rss des articles sur le thème : Agences" xmlUrl="http://www.e-marketing.fr/rss/agences-1089.xml" htmlUrl="http://www.e-marketing.fr/RSS/agences.xml" type="rss" row="500" col="1"/>
+   <outline title="Flux rss des articles sur le thème : Veille" xmlUrl="http://www.e-marketing.fr/rss/veille-1097.xml" htmlUrl="http://www.e-marketing.fr/RSS/veille.xml" type="rss" row="1000" col="1"/>
+   <outline title="Blog du Modérateur" xmlUrl="https://www.blogdumoderateur.com/feed/" htmlUrl="https://www.blogdumoderateur.com/" type="rss" row="15.625" col="2"/>
+   <outline title="Dans la tête des entrepreneurs - Propulsé par Niviti » Flux" xmlUrl="https://niviti.com/blogue/feed/" htmlUrl="https://niviti.com/blogue" type="rss" row="31.25" col="2"/>
+   <outline title="Piwee » Feed" xmlUrl="http://piwee.net/feed/" htmlUrl="http://piwee.net/" type="rss" row="62.5" col="2"/>
+   <outline title="il était une pub » Flux" xmlUrl="https://iletaitunepub.fr/feed/" htmlUrl="https://iletaitunepub.fr/" type="rss" row="125" col="2"/>
+   <outline title="Digital – Comarketing-News" xmlUrl="https://comarketing-news.fr/digital/comments/feed/" htmlUrl="https://comarketing-news.fr/" type="rss" row="250" col="2"/>
+   <outline title="Flux rss des articles sur le thème : Carrière" xmlUrl="http://www.e-marketing.fr/rss/management-1090.xml" htmlUrl="http://www.e-marketing.fr/RSS/management.xml" type="rss" row="500" col="2"/>
+   <outline title="Flux rss des articles sur le thème : IA" xmlUrl="http://www.e-marketing.fr/rss/ia-1250.xml" htmlUrl="http://www.e-marketing.fr/RSS/ia.xml" type="rss" row="1000" col="2"/>
+   <outline title="Le Monde Marketing" xmlUrl="http://www.lemondemarketing.com/feed/" htmlUrl="http://www.lemondemarketing.com/" type="rss" row="250" col="3"/>
+   <outline title="Comarketing-News » Flux des commentaires" xmlUrl="https://comarketing-news.fr/comments/feed/" htmlUrl="https://comarketing-news.fr/" type="rss" row="500" col="3"/>
+   <outline title="Flux rss des articles sur le thème : Académie" xmlUrl="http://www.e-marketing.fr/rss/academie-1078.xml" htmlUrl="http://www.e-marketing.fr/RSS/academie.xml" type="rss" row="1000" col="3"/>
+   <outline title="Culture Evenement » Flux des commentaires" xmlUrl="http://www.cultureevenement.com/comments/feed/" htmlUrl="http://www.cultureevenement.com/" type="rss" row="250" col="4"/>
+   <outline title="Actualités Infopresse" xmlUrl="http://www.infopresse.com/rss" htmlUrl="" type="rss" row="500" col="4"/>
+   <outline title="RSS la Réclame" xmlUrl="https://feeds.feedburner.com/lareclame" htmlUrl="https://lareclame.fr/" type="rss" row="1000" col="4"/>
+  </outline>
+  <outline title="Graphisme&amp;#x2F;Webmasters" cols="4" layout="4-0">
+   <outline title="Calenda - À la Une" xmlUrl="http://calenda.org/feed.php?frontpage=1" htmlUrl="https://calenda.org/" type="rss" row="125" col="1"/>
+   <outline title="Les Numériques" xmlUrl="http://feeds.feedburner.com/lesnumeriques/news" htmlUrl="https://www.lesnumeriques.com/" type="rss" row="500" col="1"/>
+   <outline title="ADMIRABLE DESIGN » Flux" xmlUrl="http://admirabledesign.com/?feed=rss2" htmlUrl="http://admirabledesign.com/" type="rss" row="62.5" col="2"/>
+   <outline title="Tuto Photoshop les meilleurs tutoriaux photoshop gratuit » Flux" xmlUrl="https://www.tutsps.com/feed/" htmlUrl="https://www.tutsps.com/" type="rss" row="125" col="2"/>
+   <outline title="Blog Du Webdesign Magazine" xmlUrl="http://www.blogduwebdesign.com/atom.xml" htmlUrl="http://www.blogduwebdesign.com/" type="rss" row="250" col="2"/>
+   <outline title="Metadsign | infographiste 3d" xmlUrl="http://home.metadsign.com/feed/?feed=rss" htmlUrl="http://home.metadsign.com/" type="rss" row="500" col="2"/>
+   <outline title="Colossal » Feed" xmlUrl="http://www.thisiscolossal.com/feed/" htmlUrl="http://www.thisiscolossal.com/" type="rss" row="1000" col="2"/>
+   <outline title="KobOne » Flux" xmlUrl="http://www.kob-one.com/blog/feed/" htmlUrl="http://www.kob-one.com/blog" type="rss" row="62.5" col="3"/>
+   <outline title="Latest News Articles from Digital Arts" xmlUrl="https://www.digitalartsonline.co.uk/rss/feeds/digitalarts-news.xml" htmlUrl="https://www.digitalartsonline.co.uk/news/" type="rss" row="125" col="3"/>
+   <outline title="Labo JNG WEB » Flux" xmlUrl="http://www.jng-web.com/labo/feed/" htmlUrl="http://www.jng-web.com/labo" type="rss" row="250" col="3"/>
+   <outline title="Blog – Designer Daily: graphic and web design blog" xmlUrl="http://feeds.feedburner.com/DailyDesignerNews" htmlUrl="https://www.designer-daily.com/" type="rss" row="500" col="3"/>
+   <outline title="AA13 – blog – Inspiration – Design – Architecture – Photographie – Art" xmlUrl="http://www.aa13.fr/feed/" htmlUrl="http://www.aa13.fr/" type="rss" row="1000" col="3"/>
+   <outline title="Layers Magazine » Feed" xmlUrl="https://layersmagazine.com/feed" htmlUrl="https://layersmagazine.com/" type="rss" row="250" col="4"/>
+   <outline title="Webdesigner Trends" xmlUrl="http://www.webdesignertrends.com/feed/" htmlUrl="http://www.webdesignertrends.com/" type="rss" row="500" col="4"/>
+   <outline title="Fubiz Media - Flux RSS des articles" xmlUrl="http://www.fubiz.net/feed/" htmlUrl="http://www.fubiz.net/" type="rss" row="1000" col="4"/>
+  </outline>
+  <outline title="NTIC" cols="4" layout="4-0">
+   <outline title="Fortune" xmlUrl="http://fortune.com/feed/" htmlUrl="http://fortune.com/" type="rss" row="250" col="1"/>
+   <outline title="Mobile - MIT Technology Review" xmlUrl="https://www.technologyreview.com/c/mobile/rss/" htmlUrl="https://www.technologyreview.com/" type="rss" row="500" col="1"/>
+   <outline title="Salon: in-depth news, politics, business, technology &amp; culture &amp;gt; Innovation" xmlUrl="https://www.salon.com/category/innovation/comments/feed/" htmlUrl="https://www.salon.com/" type="rss" row="1000" col="1"/>
+   <outline title="RSS" xmlUrl="https://www.fastcompany.com/latest/rss?truncated=true" htmlUrl="https://www.fastcompany.com/" type="rss" row="125" col="2"/>
+   <outline title="Latest ZDNet Product Reviews" xmlUrl="https://www.zdnet.com/topic/reviews/rss.xml" htmlUrl="http://www.zdnet.com/" type="rss" row="250" col="2"/>
+   <outline title="Usine Digitale L'Usine Digitale - Actualités à la une" xmlUrl="https://www.usine-digitale.fr/rss" htmlUrl="https://www.usine-digitale.fr/" type="rss" row="1000" col="2"/>
+   <outline title="WIRED RSS Feed" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com/" type="rss" row="125" col="3"/>
+   <outline title="RSS" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/https:/www.nytimes.com/section/technology/rss.xml" htmlUrl="https://www.nytimes.com/section/technology" type="rss" row="250" col="3"/>
+   <outline title="Flux toutes les actualités - 01net" xmlUrl="http://www.01net.com/rss/info/flux-rss/flux-toutes-les-actualites/" htmlUrl="http://www.01net.com/info/flux-rss/flux-toutes-les-actualites/" type="rss" row="500" col="3"/>
+   <outline title="Toutes les actualités :" xmlUrl="https://www.lemondeinformatique.fr/flux-rss/thematique/toutes-les-actualites/rss.xml" htmlUrl="https://www.lemondeinformatique.fr/flux-rss//rss.xml" type="rss" row="1000" col="3"/>
+   <outline title="CNET News" xmlUrl="https://www.cnet.com/rss/news/" htmlUrl="https://www.cnet.com/#ftag=CAD590a51e" type="rss" row="250" col="4"/>
+   <outline title="Technologies : Toute l'actualité sur Le Monde.fr." xmlUrl="http://www.lemonde.fr/technologies/rss_full.xml" htmlUrl="http://www.lemonde.fr/technologies/rss_full.xml" type="rss" row="500" col="4"/>
+   <outline title="JDN : E-business, FinTech, Big Data, IoT, tendances média, décideurs..." xmlUrl="https://www.journaldunet.com/rss/" htmlUrl="https://www.journaldunet.com/" type="rss" row="1000" col="4"/>
+  </outline>
+  <outline title="Sports" cols="4" layout="4-0">
+   <outline title="Sports.fr" xmlUrl="http://www.sports.fr/fr/cmc/rss.xml" htmlUrl="http://www.sports.fr/" type="rss" row="1000" col="1"/>
+   <outline title="Eurosport - Top des infos" xmlUrl="https://www.eurosport.fr/rss.xml" htmlUrl="https://www.eurosport.fr/" type="rss" row="500" col="2"/>
+   <outline title="Sports.fr" xmlUrl="http://www.sports.fr/fr/cmc/rss.xml" htmlUrl="http://www.sports.fr/" type="rss" row="1000" col="2"/>
+   <outline title="INFOS FOOT" xmlUrl="http://www.matchendirect.fr/rss/info.xml" htmlUrl="http://www.matchendirect.fr/" type="rss" row="500" col="3"/>
+   <outline title="L'Equipe.fr Actu de tous les sports" xmlUrl="https://www.lequipe.fr/rss/actu_rss.xml" htmlUrl="https://www.lequipe.fr/" type="rss" row="1000" col="3"/>
+   <outline title="RSS 2.0" xmlUrl="http://www.beinsports.com/france/rss.xml" htmlUrl="http://www.beinsports.com/" type="rss" row="500" col="4"/>
+   <outline title="TOP Foot - Actu Football" xmlUrl="http://www.topfoot.com/rss.xml" htmlUrl="http://www.topfoot.com/" type="rss" row="1000" col="4"/>
+  </outline>
+  <outline title="Tourisme" cols="4" layout="4-0">
+   <outline title="LaQuotidienne.fr" xmlUrl="http://www.laquotidienne.fr/?feed=rss" htmlUrl="http://www.laquotidienne.fr/" type="rss" row="1000" col="2"/>
+   <outline title="Le Quotidien du Tourisme" xmlUrl="http://www.quotidiendutourisme.com/?feed=rss" htmlUrl="http://www.quotidiendutourisme.com/" type="rss" row="1000" col="3"/>
+  </outline>
+  <outline title="Info.com" cols="4" layout="4-0">
+   <outline title="ZDNet News" xmlUrl="http://www.zdnet.fr/feeds/rss/actualites/informatique/%22%20type=%22rss/" htmlUrl="http://www.zdnet.fr/feeds/rss/actualites/informatique/%22%20type=%22rss/" type="rss" row="500" col="2"/>
+   <outline title="Cairn - Encyclopédies de poche d'Info, Communication" xmlUrl="https://www.cairn.info/rss/rss_encyclo-sciences-de-l-information.xml" htmlUrl="http://www.cairn.info/" type="rss" row="1000" col="2"/>
+   <outline title="Cairn.info - Ouvrages de recherche de Philosophie" xmlUrl="https://www.cairn.info/rss/rss_ouvrages-philosophie.xml" htmlUrl="http://www.cairn.info/" type="rss" row="500" col="3"/>
+   <outline title="Sección Materia | Ciencia en EL PAÍS" xmlUrl="http://ep00.epimg.net/rss/elpais/ciencia.xml" htmlUrl="https://elpais.com/rss/elpais/ciencia.xml" type="rss" row="1000" col="3"/>
+   <outline title="Cairn - Ouvrages de recherche d'Info, Communication" xmlUrl="https://www.cairn.info/rss/rss_ouvrages-sciences-de-l-information.xml" htmlUrl="http://www.cairn.info/" type="rss" row="500" col="4"/>
+   <outline title="Calenda - Information" xmlUrl="https://calenda.org/feed.php?cat=270" htmlUrl="https://calenda.org/search?primary=fsubject&amp;fsubject=270" type="rss" row="1000" col="4"/>
+  </outline>
+ </body>
+</opml>
