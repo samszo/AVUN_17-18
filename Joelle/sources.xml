@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+ <head>
+  <title>Personal Dashboard</title>
+  <type>Private</type>
+  <creationDate>2018-03-31 21:11:31</creationDate>
+ </head>
+ <body>
+  <outline title="Bienvenue" icon="home" iconColor="blue" cols="4" layout="4-1">
+   <outline type="WelcomeVip" title="Welcome to your Dashboard" row="1000" col="1">
+    <outline color="borderless" mode="welcome"/>
+   </outline>
+   <outline type="PotionWizard" title="Alert me if it'll rain tomorrow" row="4000" col="2">
+    <outline collapsedLegend="true" preconfigData="{&quot;title&quot;:&quot;Alert me if it'll rain tomorrow&quot;,&quot;triggers&quot;:[{&quot;ingredient&quot;:&quot;com.weather&quot;,&quot;reference&quot;:&quot;weather_forecast&quot;,&quot;name&quot;:&quot;com.weather.city.{city}.forecast.{day}&quot;,&quot;config&quot;:{&quot;formulaHelpers&quot;:{&quot;weatherConditions&quot;:&quot;Rain&quot;},&quot;formula&quot;:&quot;bluntConditions is 'Rain'&quot;}}],&quot;actions&quot;:[{&quot;ingredient&quot;:&quot;mail&quot;,&quot;reference&quot;:&quot;mail&quot;,&quot;name&quot;:&quot;com.netvibes.mail&quot;,&quot;type&quot;:1,&quot;config&quot;:{&quot;general&quot;:[]}}],&quot;triggersLength&quot;:1,&quot;actionsLength&quot;:1,&quot;glue&quot;:2,&quot;formula&quot;:&quot;&quot;}" title="Alert me if it'll rain tomorrow"/>
+   </outline>
+   <outline type="Weather" title="Saint-Denis, France" row="1000" col="3">
+    <outline unit="1" town="48.936/2.354"/>
+   </outline>
+   <outline type="TodoList" title="To Do List" row="1000" col="4">
+    <outline todos="{&quot;t1&quot;:{&quot;title&quot;:&quot;Organize your life!&quot;,&quot;color&quot;:&quot;#078d93&quot;,&quot;id&quot;:&quot;t1&quot;},&quot;t2&quot;:{&quot;title&quot;:&quot;Write Things Down&quot;,&quot;color&quot;:&quot;#96BC0D&quot;,&quot;id&quot;:&quot;t2&quot;},&quot;t3&quot;:{&quot;title&quot;:&quot;Make Schedules and Deadlines&quot;,&quot;color&quot;:&quot;#96BC0D&quot;,&quot;id&quot;:&quot;t3&quot;}}"/>
+   </outline>
+  </outline>
+  <outline title="Flux RSS" icon="rss" iconColor="green" cols="3" layout="3-0">
+   <outline title="InternetActu.net" xmlUrl="http://www.internetactu.net/feed/" htmlUrl="http://www.internetactu.net/" type="rss" row="250" col="1"/>
+   <outline title="Global Voices en Français" xmlUrl="https://fr.globalvoices.org/feed/" htmlUrl="https://fr.globalvoices.org/" type="rss" row="500" col="1"/>
+   <outline title="Ergolab - ergonomie web &amp; logiciel" xmlUrl="http://feeds.feedburner.com/ergolab" htmlUrl="http://www.ergolab.net/" type="rss" row="1000" col="1"/>
+   <outline title="CNRS le Journal thématique : Numérique" xmlUrl="https://lejournal.cnrs.fr/rss/2/1824%2B1819%2B1817%2B1808" htmlUrl="https://lejournal.cnrs.fr/" type="rss" row="2000" col="1"/>
+   <outline title="Lagazette.fr » La lutte contre l'exclusion passe désormais par l'accompagnement au numérique " xmlUrl="http://www.lagazettedescommunes.com/dossiers/la-lutte-contre-lexclusion-passe-desormais-par-laccompagnement-au-numerique/?feed=rss" htmlUrl="http://www.lagazettedescommunes.com/" type="rss" row="3000" col="1"/>
+   <outline title="Lagazette.fr » L'innovation à tous les étages " xmlUrl="http://www.lagazettedescommunes.com/dossiers/linnovation-a-tous-les-etages/?feed=rss" htmlUrl="http://www.lagazettedescommunes.com/" type="rss" row="4000" col="1"/>
+   <outline title="Lagazette.fr » Politiques culturelles numériques : quelle feuille de route pour les collectivités" xmlUrl="http://www.lagazettedescommunes.com/dossiers/politiques-culturelles-numeriques-quelle-feuille-de-route-pour-les-collectivites/?feed=rss" htmlUrl="http://www.lagazettedescommunes.com/" type="rss" row="5000" col="1"/>
+   <outline title="Lagazette.fr » L'innovation en pratique " xmlUrl="http://www.lagazettedescommunes.com/dossiers/linnovation-en-pratique/?feed=rss" htmlUrl="http://www.lagazettedescommunes.com/" type="rss" row="6000" col="1"/>
+   <outline title="Lagazette.fr » Sécurité informatique : comment se protéger ? " xmlUrl="http://www.lagazettedescommunes.com/dossiers/securite-informatique-comment-se-proteger/?feed=rss" htmlUrl="http://www.lagazettedescommunes.com/" type="rss" row="7000" col="1"/>
+   <outline title="Lagazette.fr » Legaltech et digitalisation du droit : des opportunités pour les collectivités " xmlUrl="http://www.lagazettedescommunes.com/dossiers/legaltech-et-digitalisation-du-droit-des-opportunites-pour-les-collectivites/?feed=rss" htmlUrl="http://www.lagazettedescommunes.com/" type="rss" row="8000" col="1"/>
+   <outline title="Lagazette.fr » Archives publiques : les enjeux de la révolution numérique " xmlUrl="http://www.lagazettedescommunes.com/dossiers/archives-publiques-les-enjeux-de-la-revolution-numerique/?feed=rss" htmlUrl="http://www.lagazettedescommunes.com/" type="rss" row="9000" col="1"/>
+   <outline title="Lagazette.fr » Comment les outils numériques renouvellent la démocratie locale " xmlUrl="http://www.lagazettedescommunes.com/dossiers/comment-les-outils-numeriques-renouvellent-la-democratie-locale/?feed=rss" htmlUrl="http://www.lagazettedescommunes.com/" type="rss" row="10000" col="1"/>
+   <outline title="Lagazette.fr » Réseaux sociaux et collectivités territoriales : quelle stratégie adopter ? " xmlUrl="http://www.lagazettedescommunes.com/dossiers/reseaux-sociaux-et-collectivites-territoriale-quelle-strategie-adopter/?feed=rss" htmlUrl="http://www.lagazettedescommunes.com/" type="rss" row="11000" col="1"/>
+   <outline title="Lagazette.fr » Les données culturelles s'ouvrent de plus en plus à l'open data " xmlUrl="http://www.lagazettedescommunes.com/dossiers/les-donnees-culturelles-souvrent-de-plus-en-plus-a-lopen-data/?feed=rss" htmlUrl="http://www.lagazettedescommunes.com/" type="rss" row="12000" col="1"/>
+   <outline title="Lagazette.fr » Données personnelles : un gisement sous haute protection " xmlUrl="http://www.lagazettedescommunes.com/dossiers/donnees-personnelles-un-gisement-sous-haute-protection/?feed=comments-rss" htmlUrl="http://www.lagazettedescommunes.com/" type="rss" row="13000" col="1"/>
+   <outline title="Commentaires sur : Les collectivités s'emparent des informations offertes par l'open data" xmlUrl="http://www.lagazettedescommunes.com/551680/les-collectivites-semparent-des-informations-offertes-par-lopen-data/?feed=comments-rss" htmlUrl="http://www.lagazettedescommunes.com/551680/les-collectivites-semparent-des-informations-offertes-par-lopen-data/" type="rss" row="14000" col="1"/>
+   <outline title="Commentaires sur : [50 ans Inria]  Modélisation numérique et optimisation : de la recherche aux " xmlUrl="http://www.inria-alumni.fr/50-ans-inria-modelisation-numerique/feed/" htmlUrl="http://www.inria-alumni.fr/50-ans-inria-modelisation-numerique/" type="rss" row="15000" col="1"/>
+   <outline title="Blog du Modérateur" xmlUrl="http://api.netvibes.com/searches/?actions={&quot;searches&quot;:[{&quot;id&quot;:&quot;cc10dd90-57eb-11e6-a798-782bcb10e966&quot;,&quot;token&quot;:&quot;2e83da91be91bb137bcf2951a8767bce636a4656&quot;}]}&amp;format=atom" type="rss" row="16000" col="1"/>
+   <outline title="Le Monde.fr : Technologies" xmlUrl="http://www.lemonde.fr/technologies/rss_full.xml" htmlUrl="http://www.lemonde.fr/technologies/rss_full.xml" type="rss" row="15.625" col="2"/>
+   <outline title="Data science – Survey-Magazine" xmlUrl="http://www.soft-concept.com/surveymagazine/category/articles/data-science/comments/feed/" htmlUrl="http://www.soft-concept.com/surveymagazine" type="rss" row="31.25" col="2"/>
+   <outline title="La-Croix.com" xmlUrl="https://www.la-croix.com/RSS/UNIVERS_ALL" htmlUrl="http://www.la-croix.com/" type="rss" row="62.5" col="2"/>
+   <outline title="Flux rss des articles sur le thème : Veille" xmlUrl="http://www.e-marketing.fr/rss/veille-1097.xml" htmlUrl="http://www.e-marketing.fr/RSS/veille.xml" type="rss" row="125" col="2"/>
+   <outline title="Flux rss des articles sur le thème : Média" xmlUrl="http://www.e-marketing.fr/rss/media-1093.xml" htmlUrl="http://www.e-marketing.fr/RSS/media.xml" type="rss" row="250" col="2"/>
+   <outline title="Flux rss des articles sur le thème : Data" xmlUrl="http://www.e-marketing.fr/rss/data-1091.xml" htmlUrl="http://www.e-marketing.fr/RSS/data.xml" type="rss" row="500" col="2"/>
+   <outline title="Technologies : Toute l'actualité sur Le Monde.fr." xmlUrl="http://www.lemonde.fr/technologies/rss_full.xml" htmlUrl="http://www.lemonde.fr/technologies/rss_full.xml" type="rss" row="1000" col="2"/>
+   <outline title="RSS ZDNet.fr" xmlUrl="http://www.zdnet.fr/feeds/rss/" htmlUrl="http://www.zdnet.fr/feeds/rss/" type="rss" row="15.625" col="3"/>
+   <outline title="Survey-Magazine » Flux de la catégorie Data science" xmlUrl="http://www.soft-concept.com/surveymagazine/category/articles/data-science/feed/" htmlUrl="http://www.soft-concept.com/surveymagazine" type="rss" row="31.25" col="3"/>
+   <outline title="RSS" xmlUrl="http://plus.lefigaro.fr/tag/reseaux-sociaux/rss.xml" htmlUrl="http://plus.lefigaro.fr/tag/reseaux-sociaux" type="rss" row="62.5" col="3"/>
+   <outline title="Flux rss des articles sur le thème : Social media" xmlUrl="http://www.e-marketing.fr/rss/social-media-1096.xml" htmlUrl="http://www.e-marketing.fr/RSS/social-media.xml" type="rss" row="125" col="3"/>
+   <outline title="Lagazette.fr » Open Data et réutilisation des données publiques : des promesses vertigineuses " xmlUrl="http://www.lagazettedescommunes.com/dossiers/reutilisation-des-donnees-publiques-des-promesses-vertigineuses/?feed=rss" htmlUrl="http://www.lagazettedescommunes.com/" type="rss" row="250" col="3"/>
+   <outline title="Commentaires sur : Les collectivités s'emparent des informations offertes par l'open data" xmlUrl="http://www.lagazettedescommunes.com/551680/les-collectivites-semparent-des-informations-offertes-par-lopen-data/?feed=rss" htmlUrl="http://www.lagazettedescommunes.com/551680/les-collectivites-semparent-des-informations-offertes-par-lopen-data/" type="rss" row="500" col="3"/>
+   <outline title="Lagazette.fr » Innovations et Territoires" xmlUrl="http://www.lagazettedescommunes.com/rubriques/innovations-et-territoires/feed/" htmlUrl="http://www.lagazettedescommunes.com/" type="rss" row="1000" col="3"/>
+  </outline>
+ </body>
+</opml>
